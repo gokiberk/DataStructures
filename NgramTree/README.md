@@ -3,7 +3,7 @@
 
 ### This program runs in terminal and receives a text file name to get string input and an integer for ngram size. 
 
-### Run this code by simply writing
+### Execute this code by simply writing
 
 ```
 make
