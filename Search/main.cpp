@@ -1,7 +1,5 @@
 //
 //  main.cpp
-//  CS201HW2
-//
 //  Created by Gökberk Keskinkılıç on 10.04.2021.
 //
 
@@ -14,6 +12,7 @@
 using namespace std;
 
 /**
+ Linear Search
  algorithm 1
  */
 int linearSearch( int* arr, int size, int key){
@@ -26,6 +25,7 @@ int linearSearch( int* arr, int size, int key){
 }
 
 /**
+ Recursive Linear Search
  algorithm 2
  */
 int linearSearchRecursive( int* arr, int low, int size, int key){
@@ -40,6 +40,7 @@ int linearSearchRecursive( int* arr, int low, int size, int key){
 }
 
 /**
+ Binary Search
  algorithm 3
  */
 int binarySearch( int* arr, int low, int high, int key){
@@ -58,6 +59,7 @@ int binarySearch( int* arr, int low, int high, int key){
 }
 
 /**
+ Jump Search
  algorithm 4
  */
 int jumpSearch(int* arr, int size, int key){
