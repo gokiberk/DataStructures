@@ -1,9 +1,7 @@
 /**
 * Title: Trees
 * Author: Gökberk Keskinkılıç
-* ID: 21801666
-* Assignment: 2
-* Description: description of your code */
+*/
 // hw2.cpp
 
 #include "NgramTree.hpp"
