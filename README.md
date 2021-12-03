@@ -1,2 +1,2 @@
 # Data Structures
-This repository includes implementation of sorting algorithms, trees, heaps, hashes, graphs.
+This repository includes implementation of searching algorithms, sorting algorithms, trees, heaps, hashes and graphs.
