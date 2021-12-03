@@ -2,10 +2,10 @@ CC=g++
 
 CFLAGS=-c -Wall
 
-all: hw2
+all: ngram
 
-hw2: main.o NgramTree.o
-	$(CC) main.o NgramTree.o -o runthis
+ngram: main.o NgramTree.o
+	$(CC) main.o NgramTree.o -o ngram
 
 
 main.o: main.cpp
@@ -18,4 +18,4 @@ NgramTree.o: NgramTree.cpp
 
 
 clean:
-	rm *o runthis
+	rm *o ngram
