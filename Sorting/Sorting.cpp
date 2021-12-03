@@ -1,10 +1,6 @@
 /**
 *Title: Algorithm Efficiency and Sorting
 *Author: Gokberk Keskinkilic
-*ID 21801666
-*Section: 1
-*Assignment: 1
-*Description: implementing functions
 */
 
 #include "Sorting.h" //#include "Sorting.h"
