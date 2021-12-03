@@ -9,7 +9,7 @@ make
 and then
 
 ```
-./hw2 input.txt 4
+./ngram input.txt 4
 ```
 
 4 is given as an example, can be any value larger than 2.
