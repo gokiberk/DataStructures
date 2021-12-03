@@ -1,4 +1,4 @@
-### Implementation of sorting algorithms
+# Implementation of sorting algorithms:
 
 # Insertion Sort
 # Merge Sort
