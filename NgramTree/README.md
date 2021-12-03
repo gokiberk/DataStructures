@@ -12,4 +12,4 @@ and then
 ./ngram input.txt 4
 ```
 
-4 is given as an example, can be any value larger than 2.
+4 is given as an example, can be any value satisfying minimum conditions of ngram.
