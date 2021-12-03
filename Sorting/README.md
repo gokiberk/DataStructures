@@ -1,6 +1,6 @@
 # Implementation of sorting algorithms:
 
-# Insertion Sort
-# Merge Sort
-# Quick Sort
-# Radix Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Radix Sort
