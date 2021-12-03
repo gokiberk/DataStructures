@@ -32,4 +32,4 @@ zinc
 aatt
 ```
 its output is as follows:
-![Sample Output](https://github.com/gokiberk/DataStructures/NgramTree/image.jpg?raw=true)
+![Sample Output](https://github.com/gokiberk/DataStructures/blob/main/NgramTree/image.png?raw=true)
