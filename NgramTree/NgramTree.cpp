@@ -1,7 +1,5 @@
 //
 //  NgramTree.cpp
-//  CS202 HW2
-//
 //  Created by Gökberk Keskinkılıç on 8.11.2021.
 //
 
