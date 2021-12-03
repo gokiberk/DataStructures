@@ -18,3 +18,15 @@ make
 ### 4 is given as an example, can be any value satisfying minimum conditions of ngram.
 
 ### This example runs on dijkstra without any problem.
+
+Sample text is 
+```
+this is sample text
+and thise is all
+samp
+samp
+zinc
+aatt
+```
+and its output is as follows
+![alt text](https://github.com/gokiberk/DataStructures/edit/main/NgramTree/image.jpg?raw=true)
