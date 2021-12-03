@@ -23,10 +23,13 @@ Sample text is
 ```
 this is sample text
 and thise is all
+```
+and after adding below strings into tree in main method
+```
 samp
 samp
 zinc
 aatt
 ```
-and its output is as follows:
-![Sample Output](https://github.com/gokiberk/DataStructures/edit/main/NgramTree/image.jpg?raw=true)
+its output is as follows:
+![Sample Output](https://github.com/gokiberk/DataStructures/NgramTree/image.jpg?raw=true)
