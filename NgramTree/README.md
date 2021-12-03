@@ -15,4 +15,6 @@ make
 ./ngram input.txt 4
 ```
 
-### 4 is given as an example, can be any value satisfying minimum conditions of ngram. This example runs on dijkstra without any problem.
+### 4 is given as an example, can be any value satisfying minimum conditions of ngram.
+
+### This example runs on dijkstra without any problem.
