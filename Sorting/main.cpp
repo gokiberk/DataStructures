@@ -1,9 +1,6 @@
 /**
 *Title: Algorithm Efficiency and Sorting
 *Author: Gokberk Keskinkilic
-*ID 21801666
-*Section: 1
-*Assignment: 1
 *Description: this is the main method
 */
 
