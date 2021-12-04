@@ -2,10 +2,10 @@ CC=g++
 
 CFLAGS=-c -Wall
 
-all: hw1
+all: sort
 
-hw1: main.o Sorting.o
-	$(CC) main.o Sorting.o -o runthis
+sort: main.o Sorting.o
+	$(CC) main.o Sorting.o -o sort
 
 
 main.o: main.cpp
@@ -18,4 +18,4 @@ Sorting.o: Sorting.cpp
 
 
 clean:
-	rm *o runthis
+	rm *o sort
